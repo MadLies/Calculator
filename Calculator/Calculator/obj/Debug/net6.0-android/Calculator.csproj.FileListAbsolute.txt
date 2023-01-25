@@ -956,3 +956,6 @@ C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\resizetizer\f\Sublima-ExtraBold.otf
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\resizetizer\f\Sublima-Light.otf
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\Calculator.csproj.Fody.CopyLocal.cache
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\Calculator.csproj.Fody.RuntimeCopyLocal.cache
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\android\assets\PropertyChanged.dll

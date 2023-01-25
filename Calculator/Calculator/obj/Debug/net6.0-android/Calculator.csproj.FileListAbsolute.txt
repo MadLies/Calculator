@@ -959,3 +959,5 @@ C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\resize
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\Calculator.csproj.Fody.CopyLocal.cache
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\Calculator.csproj.Fody.RuntimeCopyLocal.cache
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\android\assets\PropertyChanged.dll
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\android\assets\Antlr4.Runtime.dll
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\android\assets\Dangl.Calculator.dll

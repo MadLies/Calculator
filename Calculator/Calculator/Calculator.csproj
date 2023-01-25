@@ -54,6 +54,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="Dangl.Calculator" Version="1.5.0" />
 	  <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
 	</ItemGroup>
 

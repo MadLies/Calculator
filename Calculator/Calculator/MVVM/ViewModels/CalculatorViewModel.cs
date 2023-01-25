@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using Dangl.Calculator;
 
 namespace Calculator.MVVM.ViewModels
 {
@@ -27,6 +28,16 @@ namespace Calculator.MVVM.ViewModels
             {
                 Formula = Formula.Substring(0, Formula.Length - 1);
             }
+        });
+
+        public ICommand CalculateCommand => new Command(() =>
+        {
+            if (Formula.Length == 0)
+                return;
+           var  calculation = Dangl.Calculator.Calculator.Calculate(Formula);   
+           Result = calculation.Result.ToString();
+
+
         });
 
     }

@@ -954,3 +954,5 @@ C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\resizetizer\f\Sublima-ExtraBold.otf
+C:\Git Proyects\Calculator\Calculator\Calculator\obj\Debug\net6.0-android\resizetizer\f\Sublima-Light.otf

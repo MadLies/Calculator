@@ -5,8 +5,27 @@
              Title="CalculatorView">
     <Grid RowDefinitions=".4*,.6*">
         <VerticalStackLayout>
-            <Label Text="5*5"/>
-            <Label Text="25"/>
+            <Label Text="5*5" StyleClass="LabelText, LabelOperations" />
+                <Label Text="25" StyleClass="LabelText, LabelResult" />
         </VerticalStackLayout>
+        <Grid Grid.Row="1">
+            <BoxView/>
+            <Grid ColumnDefinitions="*,*,*,*"
+                      RowDefinitions="*,*,*,*,*"
+                      ColumnSpacing="15"
+                      RowSpacing="15"
+                      Padding="15">
+                <!--#region Row 1 -->
+                <Button Text="AC" />
+                <Button Text="⌫" Grid.Column="1"/>
+                <Button Text="%" Grid.Column="2"/>
+                <Button Text="/" Grid.Column="3"/>
+
+                <!--#endregion-->
+            </Grid>
+
+            
+        </Grid>
     </Grid>
+   
 </ContentPage>
